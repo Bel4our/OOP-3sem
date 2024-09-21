@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HBFq6wzswuq0BZQAXZe4uU5dKFXElAqEjRFpk63CshWfS+ioc4eDe9CWn3YYlQLP07PhcXu205Azks8x+hBtJA==",
+  "dgSpecHash": "IZBW2wDWBPbrfKwnW8T6tnhv0y+SiGfrfAfgJpHa55N9qPD8UOkP/Uh+5Ge7gy92Emfe1mRmIxNKu0a0SmI5GA==",
   "success": true,
-  "projectFilePath": "C:\\лабы\\Мущук\\ООП\\1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\лабы\\Мущук\\ООП\\OOP-3sem\\1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Даниил\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],

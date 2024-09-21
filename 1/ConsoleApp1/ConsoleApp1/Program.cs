@@ -76,7 +76,7 @@ namespace Program1
 
             char a5 = 'g';
             Object o3 = a5;
-            char a6 = (char)03;
+            char a6 = (char)o3;
 
 
 
@@ -289,7 +289,7 @@ namespace Program1
                     Console.WriteLine(Max);
                 }
             }
-            void Unchecked()
+            void UncheckedFunc()
             {
                 unchecked
                 {
@@ -299,7 +299,7 @@ namespace Program1
             }
 
             CheckedFunc();
-            Unchecked();
+            UncheckedFunc();
 
 
 

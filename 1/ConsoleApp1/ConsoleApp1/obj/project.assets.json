@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\лабы\\Мущук\\ООП\\1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\лабы\\Мущук\\ООП\\OOP-3sem\\1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\лабы\\Мущук\\ООП\\1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\лабы\\Мущук\\ООП\\OOP-3sem\\1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Даниил\\.nuget\\packages\\",
-      "outputPath": "C:\\лабы\\Мущук\\ООП\\1\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\лабы\\Мущук\\ООП\\OOP-3sem\\1\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Даниил\\AppData\\Roaming\\NuGet\\NuGet.Config",
