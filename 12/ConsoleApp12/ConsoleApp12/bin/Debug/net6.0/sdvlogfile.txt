@@ -1,0 +1,36 @@
+29.11.2024 21:21:21 | SDVdiskInfo | Successfully
+29.11.2024 21:21:21 | FileSystem | Successfully
+29.11.2024 21:21:21 | dispalyDisksInfo | Successfully
+29.11.2024 21:21:21 | SDVFileInfo | C:\лабы\Мущук\ООП\OOP-3sem\12\ConsoleApp12\FILE1.txt
+29.11.2024 21:21:21 | FullPath | C:\лабы\Мущук\ООП\OOP-3sem\12\ConsoleApp12\FILE1.txt
+29.11.2024 21:21:21 | dispalyFileFeature | C:\лабы\Мущук\ООП\OOP-3sem\12\ConsoleApp12\FILE1.txt
+29.11.2024 21:21:21 | displayDateInfo | C:\лабы\Мущук\ООП\OOP-3sem\12\ConsoleApp12\FILE1.txt
+29.11.2024 21:21:21 | InspectDrive | Создана директория: C:\SDVInspect, файл: C:\SDVInspect\sdvdirinfoCopy.txt
+29.11.2024 21:21:21 | CopyFilesWithExtension | Копирован файл: C:\Для лабы\12.txt в C:\SDVFiles\12.txt
+29.11.2024 21:21:21 | MoveDirectory | Директория перемещена из C:\SDVFiles в C:\SDVInspect
+29.11.2024 21:21:22 | ArchiveFiles | Создан архив: C:\Archives\archive.zip из файлов в C:\SDVInspect
+29.11.2024 21:21:22 | ExtractArchive | Архив извлечён в C:\ExtractedFiles
+29.11.2024 21:22:06 | SDVdiskInfo | Successfully
+29.11.2024 21:22:06 | FileSystem | Successfully
+29.11.2024 21:22:06 | dispalyDisksInfo | Successfully
+29.11.2024 21:22:06 | SDVFileInfo | C:\лабы\Мущук\ООП\OOP-3sem\12\ConsoleApp12\FILE1.txt
+29.11.2024 21:22:06 | FullPath | C:\лабы\Мущук\ООП\OOP-3sem\12\ConsoleApp12\FILE1.txt
+29.11.2024 21:22:06 | dispalyFileFeature | C:\лабы\Мущук\ООП\OOP-3sem\12\ConsoleApp12\FILE1.txt
+29.11.2024 21:22:06 | displayDateInfo | C:\лабы\Мущук\ООП\OOP-3sem\12\ConsoleApp12\FILE1.txt
+29.11.2024 21:22:06 | InspectDrive | Создана директория: C:\SDVInspect, файл: C:\SDVInspect\sdvdirinfoCopy.txt
+29.11.2024 21:22:06 | CopyFilesWithExtension | Копирован файл: C:\Для лабы\12.txt в C:\SDVFiles\12.txt
+29.11.2024 21:22:06 | MoveDirectory | Директория перемещена из C:\SDVFiles в C:\SDVInspect
+29.11.2024 21:22:06 | ArchiveFiles | Создан архив: C:\Archives\archive.zip из файлов в C:\SDVInspect
+29.11.2024 21:22:06 | ExtractArchive | Архив извлечён в C:\ExtractedFiles
+29.11.2024 21:29:17 | SDVdiskInfo | Successfully
+29.11.2024 21:29:18 | FileSystem | Successfully
+29.11.2024 21:29:19 | dispalyDisksInfo | Successfully
+29.11.2024 21:29:19 | SDVFileInfo | C:\лабы\Мущук\ООП\OOP-3sem\12\ConsoleApp12\FILE1.txt
+29.11.2024 21:29:19 | FullPath | C:\лабы\Мущук\ООП\OOP-3sem\12\ConsoleApp12\FILE1.txt
+29.11.2024 21:29:20 | dispalyFileFeature | C:\лабы\Мущук\ООП\OOP-3sem\12\ConsoleApp12\FILE1.txt
+29.11.2024 21:29:20 | displayDateInfo | C:\лабы\Мущук\ООП\OOP-3sem\12\ConsoleApp12\FILE1.txt
+29.11.2024 21:30:58 | InspectDrive | Создана директория: C:\SDVInspect, файл: C:\SDVInspect\sdvdirinfoCopy.txt
+29.11.2024 21:32:14 | CopyFilesWithExtension | Копирован файл: C:\Для лабы\12.txt в C:\SDVFiles\12.txt
+29.11.2024 21:32:14 | MoveDirectory | Директория перемещена из C:\SDVFiles в C:\SDVInspect
+29.11.2024 21:32:14 | ArchiveFiles | Error
+29.11.2024 21:32:14 | ExtractArchive | Error

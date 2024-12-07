@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Candy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>not founded</Name>
+  <Description>not founded</Description>
+  <Weight>0</Weight>
+</Candy>

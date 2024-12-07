@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043B\u0430\u0431\u044B\\\u041C\u0443\u0449\u0443\u043A\\\u041E\u041E\u041F\\OOP-3sem\\13\\ConsoleApp13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F6069F-223F-476F-B926-4087DECF1B23}|ConsoleApp13\\ConsoleApp13.csproj|c:\\\u043B\u0430\u0431\u044B\\\u043C\u0443\u0449\u0443\u043A\\\u043E\u043E\u043F\\oop-3sem\\13\\consoleapp13\\consoleapp13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F6069F-223F-476F-B926-4087DECF1B23}|ConsoleApp13\\ConsoleApp13.csproj|solutionrelative:consoleapp13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F6069F-223F-476F-B926-4087DECF1B23}|ConsoleApp13\\ConsoleApp13.csproj|c:\\\u043B\u0430\u0431\u044B\\\u043C\u0443\u0449\u0443\u043A\\\u043E\u043E\u043F\\oop-3sem\\13\\consoleapp13\\consoleapp13\\candy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F6069F-223F-476F-B926-4087DECF1B23}|ConsoleApp13\\ConsoleApp13.csproj|solutionrelative:consoleapp13\\candy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F6069F-223F-476F-B926-4087DECF1B23}|ConsoleApp13\\ConsoleApp13.csproj|c:\\\u043B\u0430\u0431\u044B\\\u043C\u0443\u0449\u0443\u043A\\\u043E\u043E\u043F\\oop-3sem\\13\\consoleapp13\\consoleapp13\\confectionery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F6069F-223F-476F-B926-4087DECF1B23}|ConsoleApp13\\ConsoleApp13.csproj|solutionrelative:consoleapp13\\confectionery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F6069F-223F-476F-B926-4087DECF1B23}|ConsoleApp13\\ConsoleApp13.csproj|c:\\\u043B\u0430\u0431\u044B\\\u043C\u0443\u0449\u0443\u043A\\\u043E\u043E\u043F\\oop-3sem\\13\\consoleapp13\\consoleapp13\\chocolatecandy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F6069F-223F-476F-B926-4087DECF1B23}|ConsoleApp13\\ConsoleApp13.csproj|solutionrelative:consoleapp13\\chocolatecandy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChocolateCandy.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u041C\u0443\u0449\u0443\u043A\\\u041E\u041E\u041F\\OOP-3sem\\13\\ConsoleApp13\\ConsoleApp13\\ChocolateCandy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp13\\ChocolateCandy.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u041C\u0443\u0449\u0443\u043A\\\u041E\u041E\u041F\\OOP-3sem\\13\\ConsoleApp13\\ConsoleApp13\\ChocolateCandy.cs",
+              "RelativeToolTip": "ConsoleApp13\\ChocolateCandy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:03:18.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Candy.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u041C\u0443\u0449\u0443\u043A\\\u041E\u041E\u041F\\OOP-3sem\\13\\ConsoleApp13\\ConsoleApp13\\Candy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp13\\Candy.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u041C\u0443\u0449\u0443\u043A\\\u041E\u041E\u041F\\OOP-3sem\\13\\ConsoleApp13\\ConsoleApp13\\Candy.cs",
+              "RelativeToolTip": "ConsoleApp13\\Candy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:02:21.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Confectionery.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u041C\u0443\u0449\u0443\u043A\\\u041E\u041E\u041F\\OOP-3sem\\13\\ConsoleApp13\\ConsoleApp13\\Confectionery.cs",
+              "RelativeDocumentMoniker": "ConsoleApp13\\Confectionery.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u041C\u0443\u0449\u0443\u043A\\\u041E\u041E\u041F\\OOP-3sem\\13\\ConsoleApp13\\ConsoleApp13\\Confectionery.cs",
+              "RelativeToolTip": "ConsoleApp13\\Confectionery.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T21:41:00.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u041C\u0443\u0449\u0443\u043A\\\u041E\u041E\u041F\\OOP-3sem\\13\\ConsoleApp13\\ConsoleApp13\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp13\\Program.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u041C\u0443\u0449\u0443\u043A\\\u041E\u041E\u041F\\OOP-3sem\\13\\ConsoleApp13\\ConsoleApp13\\Program.cs",
+              "RelativeToolTip": "ConsoleApp13\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T21:38:59.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCandy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <Candy>
+    <SweetnessLevel>10</SweetnessLevel>
+  </Candy>
+  <Candy>
+    <SweetnessLevel>15</SweetnessLevel>
+  </Candy>
+  <Candy>
+    <SweetnessLevel>20</SweetnessLevel>
+  </Candy>
+  <Candy>
+    <SweetnessLevel>25</SweetnessLevel>
+  </Candy>
+</ArrayOfCandy>

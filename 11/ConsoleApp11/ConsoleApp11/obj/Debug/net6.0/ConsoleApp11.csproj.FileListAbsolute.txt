@@ -1,0 +1,15 @@
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.exe
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.deps.json
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.runtimeconfig.json
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.dll
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.pdb
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfoInputs.cache
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfo.cs
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.sourcelink.json
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.dll
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\refint\ConsoleApp11.dll
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.pdb
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.genruntimeconfig.cache
+C:\лабы\Мущук\ООП\OOP-3sem\11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ref\ConsoleApp11.dll

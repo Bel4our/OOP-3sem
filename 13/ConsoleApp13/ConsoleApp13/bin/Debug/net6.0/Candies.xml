@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Candies>
+  <Candy Id="1">
+    <Name>Chocolate</Name>
+    <SweetnessLevel>10</SweetnessLevel>
+    <IsSweet>true</IsSweet>
+  </Candy>
+  <Candy Id="2">
+    <Name>Lollipop</Name>
+    <SweetnessLevel>15</SweetnessLevel>
+    <IsSweet>true</IsSweet>
+  </Candy>
+  <Candy Id="3">
+    <Name>Sour Candy</Name>
+    <SweetnessLevel>15</SweetnessLevel>
+    <IsSweet>false</IsSweet>
+  </Candy>
+</Candies>
