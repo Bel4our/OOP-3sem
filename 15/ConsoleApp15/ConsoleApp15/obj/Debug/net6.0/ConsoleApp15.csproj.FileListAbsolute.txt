@@ -1,0 +1,15 @@
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\bin\Debug\net6.0\ConsoleApp15.exe
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\bin\Debug\net6.0\ConsoleApp15.deps.json
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\bin\Debug\net6.0\ConsoleApp15.runtimeconfig.json
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\bin\Debug\net6.0\ConsoleApp15.dll
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\bin\Debug\net6.0\ConsoleApp15.pdb
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\obj\Debug\net6.0\ConsoleApp15.GeneratedMSBuildEditorConfig.editorconfig
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\obj\Debug\net6.0\ConsoleApp15.AssemblyInfoInputs.cache
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\obj\Debug\net6.0\ConsoleApp15.AssemblyInfo.cs
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\obj\Debug\net6.0\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\obj\Debug\net6.0\ConsoleApp15.sourcelink.json
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\obj\Debug\net6.0\ConsoleApp15.dll
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\obj\Debug\net6.0\refint\ConsoleApp15.dll
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\obj\Debug\net6.0\ConsoleApp15.pdb
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\obj\Debug\net6.0\ConsoleApp15.genruntimeconfig.cache
+C:\лабы\Мущук\ООП\OOP-3sem\15\ConsoleApp15\ConsoleApp15\obj\Debug\net6.0\ref\ConsoleApp15.dll
